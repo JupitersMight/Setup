@@ -1,4 +1,4 @@
-# Tese
+# IPOScore App for Clinical Data Visualization and Exploration of postoperative complications in cancer patients
 
 IMPORTANT! WHEN COPYING TEXT WITHIN " DO NOT COPY THE " WITH THE TEXT
 
